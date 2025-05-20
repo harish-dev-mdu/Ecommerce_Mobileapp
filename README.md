@@ -1,4 +1,3 @@
-
 Set up your environment: Install Node.js, the React Native CLI, and other necessary tools. 
 
 Create a new app: Use frameworks like Expo for easier development and deployment. 
